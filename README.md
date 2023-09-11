@@ -50,8 +50,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
-  <a href="https://img.shields.io/bitbucket/pipelines/:user/:repo/:branch">
-    <img alt="Bitbucket Pipelines" src="https://img.shields.io/bitbucket/pipelines/:user/:repo/:branch">
+  <a href="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
+    <img alt="javascript" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
   </a> 
   
 
